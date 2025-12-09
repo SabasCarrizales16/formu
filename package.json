@@ -1,0 +1,11 @@
+{
+  "name": "generador",
+  "version": "1.0.0",
+  "description": "Generador de archivos y estructuras",
+  "main": "index.js",
+  "bin": {
+    "gen": "./index.js"
+  },
+  "type": "module",
+  "dependencies": {}
+}
